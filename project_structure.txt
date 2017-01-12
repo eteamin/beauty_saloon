@@ -1,0 +1,10 @@
+RestAPI Suggested environemnt:
+
+Framework: TurboGears (http://turbogears.readthedocs.io/en/latest/)
+Test Environment: webtest (https://pypi.python.org/pypi/WebTest)
+Test Runner: nosetest (http://nose.readthedocs.io)
+Database: PostgreSql (https://www.postgresql.org/)
+ORM: sqlalchemy (www.sqlalchemy.org/)
+Caching System: beaker (https://beaker.readthedocs.io/)
+
+

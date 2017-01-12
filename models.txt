@@ -1,0 +1,38 @@
+Suggested Models:
+
+Customer:
+- id
+- username
+- phone_number
+- appointments
+- creation_datetime
+- transactions
+- appo
+
+Barber:
+- id
+- username
+- phone_number
+- address
+- appointments
+- creation_datetime
+- transactions
+
+Appointments:
+- id
+- customer_id
+- barber_id
+- purchase_id
+- creation_datetime
+- appoinment_datetime
+
+
+Purchase:
+- id
+- customer_id
+- barber_id
+- appointment_id
+- price
+- creation_datetime
+
+
